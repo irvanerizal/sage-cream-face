@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fonts>
+    <!-- Playfair Display, tuned for 360x360 (FR265s). -->
+    <font id="SerifDigits" filename="serif_digits.fnt" antialias="true" filter="0123456789:" />
+</fonts>

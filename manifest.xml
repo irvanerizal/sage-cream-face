@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<iq:manifest xmlns:iq="http://www.garmin.com/xml/connectiq" version="3">
+    <iq:application
+        id="a27b1678-518d-4c7f-ab02-4ce5ccbaafcb"
+        type="watchface"
+        name="@Strings.AppName"
+        entry="SageCreamApp"
+        launcherIcon="@Drawables.LauncherIcon"
+        minSdkVersion="5.2.0"
+        version="0.1.0">
+
+        <iq:products>
+            <iq:product id="fr265"/>
+            <iq:product id="fr265s"/>
+        </iq:products>
+
+        <iq:permissions/>
+
+        <iq:languages>
+            <iq:language>eng</iq:language>
+        </iq:languages>
+
+        <iq:barrels/>
+    </iq:application>
+</iq:manifest>
